@@ -1,1 +1,0 @@
-# SistemaGestionKiosco test
